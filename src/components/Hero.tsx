@@ -106,10 +106,10 @@ export default function Hero() {
         >
           <div className="hero-image-frame">
             <picture>
-              <source media="(max-width: 680px)" srcSet="/hero-mascot-themed-1600.png" />
+              <source media="(max-width: 680px)" srcSet="/hero.webp" />
               <img
-                src="/hero-mascot-themed-1200x900.png"
-                alt="Mascotte plombier SOS DALI avec clé à griffe dans un atelier petrol et cuivre"
+                src="/hero.webp"
+                alt="Mascotte plombier SOS DALI avec clé à griffe"
                 className="hero-image"
                 width="1200"
                 height="900"
